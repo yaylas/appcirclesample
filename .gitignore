@@ -1,0 +1,15 @@
+build/
+.gradle/
+app/.proguard/out.map
+.idea/
+local.properties
+*.iml
+release.properties
+change.log
+app/fabric.properties
+app/lint-report.html
+app/lint-report_files
+projectFilesBackup/
+.DS_Store
+.keystore/release.p12
+*.apk

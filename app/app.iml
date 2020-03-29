@@ -69,10 +69,10 @@
     <output-test url="file://$MODULE_DIR$/build/intermediates/javac/internalDebugUnitTest/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/ap_generated_sources/internalDebug/out" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/aidl_source_output_dir/internalDebug/out" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/internal/debug" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/renderscript_source_output_dir/internalDebug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/ap_generated_sources/internalDebug/out" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/internal/debug" type="java-resource" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/internalDebug/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/internalDebug/resources" type="java-resource" />
@@ -81,10 +81,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/internalDebug/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/internalDebug/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/internalDebug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/renderscript_source_output_dir/internalDebugAndroidTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/ap_generated_sources/internalDebugAndroidTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/aidl_source_output_dir/internalDebugAndroidTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/internal/debug" isTestSource="true" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/build/generated/renderscript_source_output_dir/internalDebugAndroidTest/out" isTestSource="true" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/internal/debug" type="java-test-resource" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestInternalDebug/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestInternalDebug/resources" type="java-test-resource" />
